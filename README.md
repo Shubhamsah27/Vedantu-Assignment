@@ -3,7 +3,7 @@
 This repository contains a prototype demonstrating the user flow for parental consent under the Digital Personal Data Protection (DPDP) Act, designed for a platform like YouTube.
 
 ## 🔗 Live Prototype
-*(Link to Render deployment will go here once deployed)*
+[View the Interactive Prototype Here](https://vedantu-assignment.onrender.com/)
 
 ## 🌊 User Flow Diagram
 
