@@ -3,9 +3,9 @@
 This repository contains a prototype demonstrating the user flow for parental consent under the Digital Personal Data Protection (DPDP) Act, designed for a platform like YouTube.
 
 ## 🔗 Live Prototype
-[View the Interactive Prototype Here](https://shubhamsah27.github.io/Vedantu-Assignment/)
+[View the Interactive Prototype Here](https://vedantu-dpdp-prototype.netlify.app/) *(Placeholder link - update once deployed)*
 
-*(Note: If the link above doesn't work immediately, please ensure GitHub Pages is enabled in your repository settings pointing to the `main` branch).*
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Shubhamsah27/Vedantu-Assignment)
 
 ## 🌊 User Flow Diagram
 
